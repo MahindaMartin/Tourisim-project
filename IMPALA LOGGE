@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IMPALA LODGE
+</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+
+        header {
+            background-color: #008000;
+            color: #fff;
+            padding: 20px;
+        }
+
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+
+        nav li {
+            float: left;
+        }
+
+        nav li a {
+            display: block;
+            color: #fff;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+        nav li a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+
+        .hero {
+            background-color: #fff;
+            text-align: center;
+            padding: 50px;
+            margin-bottom: 20px;
+        }
+
+        .about, .gallery, .Transport, .wildlife, .contact {
+            background-color: #fff;
+            padding: 50px;
+            margin-bottom: 20px;
+        }
+
+        .image-gallery img src="C:\Users\User\Music\wildlife.webp"{
+            width: 200px;
+            height: 200px;
+            margin: 10px;
+		
+        }
+
+        footer {
+            background-color: #008000;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #ddd;
+		    background-image src="C:\Users\User\Music\wildlife.webp">
+		 
+        }
+
+        h2 {
+            color: #8B4513; /* Golden Brown */
+        }
+
+        p {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+	 <img src="C:\Users\User\Desktop\Tourism pictures\LOGO.jpg" alt="Impala Lodge Logo" style="width: 200px; height: auto;">
+		<h1> IMPALA LODGE
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#gallery">Gallery</a></li>
+                <li><a href="#cars">Our Cars</a></li>
+                <li><a href="#wildlife">Wildlife</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home" class="hero">
+        <h2>Welcome to Impala Lodge</h2>
+        <p>Embark on an unforgettable safari adventure with Impala Lodge. Discover the breathtaking beauty of the African wilderness, encounter majestic wildlife, and create memories that will last a lifetime hee at IMPALA LOGE.
+		We are located in Benpark in the great upskirts of Africa where wildlife is at its peak.</p>
+        <p>Our experienced guides will lead you through stunning landscapes, sharing their knowledge of the local flora and fauna. Whether you're a seasoned safari-goer or a first-time visitor, you'll be captivated by the wonders of the African bush followed by our exotic African cuisines.</p>
+    </section>
+
+    <section id="about" class="about">
+        <h2>About Us</h2>
+        <p>Impala Lodge offers luxurious accommodation and exciting activities for the whole family. Our commitment to providing exceptional service and unforgettable experiences sets us apart.</p>
+    </section>
+
+    <section id="gallery" class="gallery">
+        <h2>Our Gallery</h2>
+		<p> Here are some of the great pictures that were cuptured during these year buy some of the tourists.</p>
+        <div class="image-gallery">
+		    <img src="C:\Users\User\Desktop\Tourism pictures\impala.jpg" alt="Lion Image" width="300" height="250">
+            <img src="C:\Users\User\Desktop\Tourism pictures\Lion.jpg" alt="Lion Image" width="300" height="250">
+            <img src="C:\Users\User\Desktop\Tourism pictures\elephant img.jpg" alt="Elephant Image" width="300" height="250">
+            <img src="C:\Users\User\Desktop\Tourism pictures\grf.jpg" alt="Giraffe Image" width="300" height="250">
+			<img src="C:\Users\User\Desktop\Tourism pictures\animals 1.jpg" alt="animal Image" width="300" height="250">
+			<img src="C:\Users\User\Desktop\Tourism pictures\animals 2.jpg" alt="animal Image" width="300" height="250">
+			<img src="C:\Users\User\Desktop\Tourism pictures\animls 3.jpg" alt="animal Image" width="300" height="250">
+			<img src="C:\Users\User\Desktop\Tourism pictures\animal 4.jpeg"	alt="animal Image" width="300" height="250">
+			<img src="C:\Users\User\Desktop\Tourism pictures\animal 5.jpeg" alt="animal Image" width="300" height="250">
+			<img src="C:\Users\User\Desktop\Tourism pictures\animal  6.webp" alt="animal Image" width="300" height="250">
+			<img src="C:\Users\User\Desktop\Tourism pictures\animal 7.webp" alt="animal Image" width="300" height="250">
+			<img src="C:\Users\User\Desktop\Tourism pictures\animal 8.jpg" alt="animal Image" width="300" height="250">
+			<img src="C:\Users\User\Desktop\Tourism pictures\animal 9.jpg"alt="animal Image" width="300" height="250">
+			<img src="C:\Users\User\Desktop\Tourism pictures\animal 10.jpg"alt="animal Image" width="300" height="250">
+			<img src="C:\Users\User\Desktop\Tourism pictures\animal 11.jpg" alt="animal Image" width="300" height="250">
+			<img src="C:\Users\User\Desktop\Tourism pictures\animal 12.webp"alt="animal Image" width="300" height="250">
+					
+        </div>
+    </section>
+
+    <section id="Transport" class="Trucks">
+        <h2>Our Safari Vehicles</h2>
+        <p>Our fleet of well-maintained vehicles, driven by experienced and skilled drivers, ensures a safe and comfortable safari experience.</p>
+        <div class="image-gallery">
+            <img src="C:\Users\User\Desktop\Tourism pictures\ttr.jpg" alt="Car 1" width="300" height="250"> 
+            <img src="C:\Users\User\Desktop\Tourism pictures\car 1.jpeg" alt="Car 2" width="300" height="250">
+            <img src="C:\Users\User\Desktop\Tourism pictures\car 2.jpeg" alt="Car 3" width="300" height="250">
+			<img src="C:\Users\User\Desktop\Tourism pictures\car 3.jpeg" alt="Car 4" width="300" height="250">
+        </div>
+        <table>
+            <tr>
+                <th>Vehicle Type</th>
+                <th>Capacity</th>
+                <th>Features</th>
+            </tr>
+            <tr>
+                <td>Land Cruiser</td>
+                <td>7</td>
+                <td>4x4, pop-up roof, comfortable seating</td>
+            </tr>
+            <tr>
+                <td>Mini-Bus</td>
+                <td>12</td>
+                <td>Air-conditioned, panoramic windows, ample storage</td>
+            </tr>
+        </table>
+    </section>
+
+    <section id="wildlife" class="wildlife">
+        <h2>Wildlife Encounters</h2>
+        <p>Experience the thrill of encountering Africa's magnificent wildlife. Here are some of the most exscuisite animals located here.</p>
+        <div class="image-gallery">
+            <img src="C:\Users\User\Desktop\Tourism pictures\zebra image.jpg" alt="Zebra Image" width="1200" height="600">
+            <img src="C:\Users\User\Desktop\Tourism pictures\rhino image.jpg"alt="Rhino Image" width="1200" height="600">
+            <img src="C:\Users\User\Desktop\Tourism pictures\buffalo image.jpg" alt="Buffalo Image" width="1200" height="600">
+            <img src="C:\Users\User\Desktop\Tourism pictures\giraffe.jpg"alt="Giraffe Image" width="1200" height="600">
+            <img src="C:\Users\User\Desktop\Tourism pictures\leopard mg.jpg" alt="leopard Image" width="1200" height="600">
+            <img src="C:\Users\User\Desktop\Tourism pictures\lions image.jpg" alt="Lion Image" width="1200" height="600">
+            <img src="C:\Users\User\Desktop\Tourism pictures\imapal img.jpg" alt="Impala Image" width="1200" height="600">
+			 <img src="C:\Users\User\Desktop\Tourism pictures\elephant2.jpg"alt="Elephant Image" width="1200" height="600">
+			
+        </div>
+        <table>
+		<p> Here is a table showing some of the  beautyfull wildlife and where they are mostly located.<p>
+		 <tr>
+                <th>Animal</th>
+                <th>number</th>
+                <th>location</th>
+		 </tr>
+            <tr>
+                <td>Impala</td>
+                <td>12,000</td>
+                <td>north west part of the IMPALA LODGE</td>
+            </tr>
+            <tr>
+                <td>Lion</td>
+                <td>120 prides</td>
+                <td>Mostly in the middle east, west and norh of the IMPALA LORGE</td>
+			</tr>
+            <tr>
+                <td>Buffalos</td>
+                <td>12 herds</td>
+                <td>most parts of the map due to vast water supplies</td>
+            </tr>
+            <tr>
+                <td>Giraffe</td>
+                <td>41</td>
+                <td>middle west of the map</td>
+            </tr>
+            </tr>
+            <tr>
+                <td>Rhinos</td>
+                <td>10</td>
+                <td>Vastly wide spread</td>
+            </tr>
+            <tr>
+                <td>Elephants</td>
+                <td>12 hards</td>
+                <td>vastly wide spread due to wide spread of watter supply</td>
+            </tr>
+			</tr>
+            <tr>
+                <td>Zebras</td>
+                <td>900</td>
+                <td>North, west and middle east </td>
+            </tr>
+            <tr>
+                <td>Leopads</td>
+                <td>30</td>
+                <td>Norh and East</td>
+            </tr>
+        
+        </table>
+        		
+		
+		
+    </section>
+
+    <section id="contact" class="contact">
+        <h2>Contact Us</h2>
+        <p>Impala Lodge, [2401259] </p>
+        <p>Phone: [0774907266]or{0792157019} </p>
+        <p>Email: [imaplalgd2024@gmail.com]</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Impala Lodge</p>
+		
+    </footer>
+
+    
+</body>
+</html>
